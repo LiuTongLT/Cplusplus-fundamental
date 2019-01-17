@@ -1,0 +1,10 @@
+/*I. ENUM INDEX*/
+enum week{sun ，mon=4，tue，wed，thu，fri，sat} w；
+//then, the index of members of w are
+//sun -> 0
+//mon -> 4
+//tue -> 5
+//wed -> 6
+//thu -> 7
+//fri -> 8
+//sat -> 9
